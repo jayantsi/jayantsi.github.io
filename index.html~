@@ -93,7 +93,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading"> Technical Skills</h2>
+                    <h2 class="section-heading"> Technical Skills and Qualifications</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -103,35 +103,45 @@
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <h3>Certifications</h3>
+                        <h3><b>Certifications</b></h3>
                         <p class="text-muted"> <ul> <li> Java SE7 Certified Programmer (Oracle) </li> <li> Scala Programming for Data Sciencce (IBM) </li> </ul> </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                        <h3><b>OS and Cloud Platforms </b> </h3>
+                        <p class="text-muted"> <ul> <li> Windows, Linux, Mac OS X </li> <li> GAE, GEE (Google Cloud)</li> <li> AWS, Docker Engine, Hadoop </li> </ul> </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <h3><b>Languages</b></h3>
+                        <p class="text-muted"> <ul> <li> C Programming, DBMS (MySQL) </li> <li> HTML/CSS, PHP </li> <li> Java, JavaScript </li> <li> Python, Scala </li> </ul> </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
                         <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <h3> <b> Applications </b></h3>
+                        <p class="text-muted"> <ul> <li> Visual Studio, Eclipse </li> <li> Microsoft Office </li> <li> Cygwin </li> <li> VMWare (Ubuntu) </li> </ul> </p>
                     </div>
                 </div>
             </div>
         </div>
     </section> 
 
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading"> <b>Projects Worked On </b></h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+    </section>
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
