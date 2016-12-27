@@ -275,8 +275,8 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-		    <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
+		    <div class="footer">
+                        <h2>Web</h2>
                         <ul class="list-inline">
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
