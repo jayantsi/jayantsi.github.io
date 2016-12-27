@@ -135,13 +135,11 @@
         </div>
     </section> 
 
-    <section id="services">
-        <div class="container">           
+    <section id="services">           
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading"> <b>Projects Worked On </b></h2>
                     <hr class="primary">
                 </div>
-        </div>
     </section>
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
