@@ -71,7 +71,7 @@
                 <h1 id="homeHeading">Hello! I am Gayathri Jayanthi</h1>
                 <hr>
                 <p> Welcome to my profile! I am a Web Developer!</p>
-                <a href="#about" class="btn btn-primary btn-xl page-scroll">My LinkedIn profile</a>
+                <a href="https://www.linkedin.com/in/veda-gayathri-jayanthi-538aa0b9" class="btn btn-primary btn-xl page-scroll">My LinkedIn profile</a>
             </div>
         </div>
     </header>
