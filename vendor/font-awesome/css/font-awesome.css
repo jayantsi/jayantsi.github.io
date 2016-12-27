@@ -192,7 +192,7 @@
 .fa-envelope-o:before {
   content: "\f003";
 }
-.fa-heart:before {
+.fa-pencil-square:before {
   content: "\f004";
 }
 .fa-star:before {
@@ -582,7 +582,7 @@
 .fa-star-half:before {
   content: "\f089";
 }
-.fa-heart-o:before {
+.fa-pencil-square-o:before {
   content: "\f08a";
 }
 .fa-sign-out:before {
