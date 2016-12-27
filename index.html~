@@ -59,7 +59,7 @@
                         <a class="page-scroll" href="#portfolio">Projects</a>
                     </li>
 		    <li>
-                        <a class="page-scroll" href="#about">Work Experience</a>
+                        <a class="page-scroll" href="#workexp">Work Experience</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -256,7 +256,7 @@
         </div>
     </aside>
 
-<section class="bg-primary" id="about">
+<section class="bg-primary" id="workexp">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
