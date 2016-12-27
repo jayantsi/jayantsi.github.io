@@ -59,7 +59,7 @@
                         <a class="page-scroll" href="#portfolio">Projects</a>
                     </li>
 		    <li>
-                        <a class="page-scroll" href="#portfolio">Work Experience</a>
+                        <a class="page-scroll" href="#about">Work Experience</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -255,6 +255,25 @@
             </div>
         </div>
     </aside>
+
+<section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Work Experience</h2>
+                    <hr class="light">
+                    <p class="text-faded"> 
+		<b> <h3> Web Developer - Desert Research Institute </b> </h3>
+			<ul> <li> Developed a web-based climate-engine engine page called Nevada ETg mapper for DRI by considering the existing climatic engine page. Google App Engine is used as front-end and is linked to Google Earth Engine as backend to pull the map layers on user request. I have created Raster images and vector data and added it to the web page, converted fusion tables into KML layers.The technologies used for this application development are tools like VMWare (Linux), Python, Java Script, J-Query and HTML/CSS. </li> </ul>
+
+		<b> <h3>  Data Analyst - National Remote Sensing Centre (NRSC) </b> </h3>
+			<ul> <li> Developed a web-based climate-engine engine page called Nevada ETg mapper for DRI by considering the existing climatic engine page. Google App Engine is used as front-end and is linked to Google Earth Engine as backend to pull the map layers on user request. I have created Raster images and vector data and added it to the web page, converted fusion tables into KML layers.The technologies used for this application development are tools like VMWare (Linux), Python, Java Script, J-Query and HTML/CSS. </li> </ul>
+			 </p>
+                    <!--<a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a> -->
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section id="contact">
         <div class="container">
