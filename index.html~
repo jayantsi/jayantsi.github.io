@@ -58,6 +58,9 @@
                     <li>
                         <a class="page-scroll" href="#portfolio">Projects</a>
                     </li>
+		    <li>
+                        <a class="page-scroll" href="#portfolio">Work Experience</a>
+                    </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
