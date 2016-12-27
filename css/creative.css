@@ -147,7 +147,7 @@ aside {
   }
 }
 header {
-  position: left;
+  position: relative;
   width: 60%;
   min-height: auto;
   -webkit-background-size: cover;
@@ -281,7 +281,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  color: #f48f79;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
