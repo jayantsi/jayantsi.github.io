@@ -567,7 +567,7 @@
 .@{fa-css-prefix}-skyatlas:before { content: @fa-var-skyatlas; }
 .@{fa-css-prefix}-cart-plus:before { content: @fa-var-cart-plus; }
 .@{fa-css-prefix}-cart-arrow-down:before { content: @fa-var-cart-arrow-down; }
-.@{fa-css-prefix}-diamond:before { content: @fa-var-diamond; }
+.@{fa-css-prefix}-star:before { content: @fa-var-star; }
 .@{fa-css-prefix}-ship:before { content: @fa-var-ship; }
 .@{fa-css-prefix}-user-secret:before { content: @fa-var-user-secret; }
 .@{fa-css-prefix}-motorcycle:before { content: @fa-var-motorcycle; }

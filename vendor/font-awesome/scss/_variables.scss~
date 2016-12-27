@@ -208,7 +208,7 @@ $fa-var-dedent: "\f03b";
 $fa-var-delicious: "\f1a5";
 $fa-var-desktop: "\f108";
 $fa-var-deviantart: "\f1bd";
-$fa-var-diamond: "\f219";
+$fa-var-star: "\f219";
 $fa-var-digg: "\f1a6";
 $fa-var-dollar: "\f155";
 $fa-var-dot-circle-o: "\f192";
