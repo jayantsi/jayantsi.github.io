@@ -230,7 +230,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
-  color: black;
+  color: white;
   opacity: 0;
   display: block;
   background: rgba(255, 163, 179, 0.9);
